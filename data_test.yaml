@@ -1,0 +1,9 @@
+val: 
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/test/cam2_water-surface_10.08.2023_15.14-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/test/cam2_water-surface_11.08.2023_10.32-PascalVOC-export/JPEGImages
+
+
+nc: 1
+
+names: 
+  0: Shrimp

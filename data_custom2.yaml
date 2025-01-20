@@ -1,0 +1,25 @@
+train: 
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_21.08.2023_08.47-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_21.08.2023_10.14-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_21.08.2023_15.20-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_21.08.2023_16.42-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_22.08.2023-08.57-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_22.08.2023-10.20-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_22.08.2023-11.50-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_22.08.2023-13.37-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_23.08.2023_08.32-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_23.08.2023_10.03-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_23.08.2023_11.32-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_23.08.2023_13.43-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/train/cam2_water-surface_23.08.2023_14.34-PascalVOC-export/JPEGImages
+
+val: 
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/validate/cam2_water-surface_23.08.2023_17.04-PascalVOC-export/JPEGImages
+
+test: 
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO2/test/cam2_water-surface_22.08.2023-15.34-PascalVOC-export/JPEGImages
+
+nc: 1
+
+names: 
+  0: Shrimp

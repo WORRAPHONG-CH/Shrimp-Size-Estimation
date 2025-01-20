@@ -1,0 +1,42 @@
+train: 
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_09.08.2023_14.14-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_09.08.2023_14.22-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_09.08.2023_16.40-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_10.08.2023_10.34-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_10.08.2023_16.39-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_11.08.2023_09.12-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_11.08.2023_11.31-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_11.08.2023_13.23-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_11.08.2023_14.49-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_11.08.2023_16.12-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_14.08.2023_09.23-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_14.08.2023_11.03-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_14.08.2023_15.44-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_14.08.2023_16.35-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_21.08.2023_08.47-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_21.08.2023_10.14-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_21.08.2023_15.20-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_21.08.2023_16.42-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_22.08.2023-08.57-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_22.08.2023-10.20-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_22.08.2023-11.50-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_22.08.2023-13.37-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_22.08.2023-15.34-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_23.08.2023_08.32-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_23.08.2023_10.03-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_23.08.2023_11.32-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_23.08.2023_13.43-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/train/cam2_water-surface_23.08.2023_14.34-PascalVOC-export/JPEGImages
+
+val: 
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/validate/cam2_water-surface_14.08.2023_13.26-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/validate/cam2_water-surface_23.08.2023_17.04-PascalVOC-export/JPEGImages
+
+test:
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/test/cam2_water-surface_10.08.2023_15.14-PascalVOC-export/JPEGImages
+- C:/Users/Worra/Desktop/Axons/WORK/Shrimp Project/dataset/YOLO/test/cam2_water-surface_11.08.2023_10.32-PascalVOC-export/JPEGImages
+
+nc: 1
+
+names: 
+  0: Shrimp

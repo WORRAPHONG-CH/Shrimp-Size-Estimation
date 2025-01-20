@@ -1,0 +1,8 @@
+astropy==5.3.2
+fil_finder==1.7.2
+matplotlib==3.7.1
+numpy==1.25.0
+opencv_contrib_python==4.8.0.74
+opencv_python==4.8.0.74
+scikit_image==0.19.3
+ultralytics==8.0.166
